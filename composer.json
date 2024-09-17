@@ -58,7 +58,7 @@
         "tecnick.com/tcpdf": "~6.0"
     },
     "require-dev": {
-        "aws/aws-sdk-php": "2.7.1",
+        "aws/aws-sdk-php": "3.288.1",
         "phpunit/phpunit": "~4.1",
         "facebook/xhprof": "dev-master",
         "phpseclib/phpseclib": "~2.0.45",
